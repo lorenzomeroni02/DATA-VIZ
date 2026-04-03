@@ -1,0 +1,1 @@
+{"tag2idx": {"B-COMPANY": 0, "B-JOBTITLE": 1, "B-LOCATION": 2, "B-SKILL": 3, "I-COMPANY": 4, "I-JOBTITLE": 5, "I-LOCATION": 6, "I-SKILL": 7, "O": 8, "_PAD_": 9}, "idx2tag": {"0": "B-COMPANY", "1": "B-JOBTITLE", "2": "B-LOCATION", "3": "B-SKILL", "4": "I-COMPANY", "5": "I-JOBTITLE", "6": "I-LOCATION", "7": "I-SKILL", "8": "O", "9": "_PAD_"}, "max_len": 18, "vocab_size": 103}
